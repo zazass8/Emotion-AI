@@ -1,0 +1,4 @@
+mne
+pymatreader
+python-picard
+hfda
