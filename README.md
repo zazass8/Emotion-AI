@@ -16,7 +16,9 @@ Instructions in the content of each file uploaded to this repository:
 
 
 ## EXCEL SPREADSHEET:
+
 - **MyData.xlsx:** Data analysis that was conducted for our dataset, to detect where have participant misclassified labels of valence, arousal and dominance. A few comparisons drawn on the last sheet.
+
 
 ## Notes:
 The code for the implementation of the VAE was inspired by [Li et.al](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2020.00087/full) although a lot of changes has been done to the original code.
